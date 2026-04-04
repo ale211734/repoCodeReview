@@ -1,4 +1,4 @@
 int main
 {
-	printf("ciao");
+	printf("ciao duro\n");
 }
