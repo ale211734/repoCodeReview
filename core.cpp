@@ -1,1 +1,5 @@
-// comment
+// belva
+int core()
+{
+	
+}
