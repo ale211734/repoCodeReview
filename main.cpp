@@ -11,6 +11,7 @@ class Gatto
 
 int main()
 {
+	printf("ciao");
 	return 0;
 	
 }
