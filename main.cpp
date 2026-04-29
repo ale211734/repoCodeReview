@@ -4,8 +4,10 @@ class Gatto
 	Gatto(){
 		
 	}
+    void miagola();
+    private:
 	int numeroZampe;
-	void miagola();
+	
 }
 
 
